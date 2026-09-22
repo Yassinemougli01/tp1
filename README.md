@@ -1,4 +1,4 @@
-# Team n<sup>o</sup> 78
+# Team n<sup>o</sup> 1
 
 # ING8100_TP1
 
